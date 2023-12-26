@@ -9,7 +9,7 @@
     <th> - </th>
   </tr>
   <tr>
-    <td><a>주니어 개발자의 지속적으로 성장하기</a></td>
+    <td><a href=https://github.com/alanhakhyeonsong/presentation/tree/main/2023/1226>주니어 개발자의 지속적으로 성장하기</a></td>
     <td> 2023.12.26 </td>
     <td> 오프라인 </td>
     <td>NHN Academy 광주캠퍼스 현직자 멘토링/특강</td>
