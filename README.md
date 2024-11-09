@@ -1,5 +1,21 @@
 # presentation
 
+## 2024
+<table>
+  <tr>
+    <th> Title </th>
+    <th> Date </th>
+    <th> Place </th>
+    <th> - </th>
+  </tr>
+  <tr>
+    <td><a href=https://inside.nhn.com/peoplenculture/238>NHN Academy Welcoming Day</a></td>
+    <td> 2024.11.01 </td>
+    <td> 오프라인 </td>
+    <td>NHN Academy 현직자 멘토링/특강</td>
+  </tr>
+</table>
+
 ## 2023
 <table>
   <tr>
