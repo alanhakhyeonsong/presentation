@@ -1,4 +1,19 @@
 # presentation
+## 2025
+<table>
+  <tr>
+    <th> Title </th>
+    <th> Date </th>
+    <th> Place </th>
+    <th> - </th>
+  </tr>
+  <tr>
+    <td>NHN Academy, 그리고 나의 새로운 시작 (NHN Academy 우수 취업 사례)</td>
+    <td> 2025.03.27 </td>
+    <td> 오프라인 </td>
+    <td>과학기술정보통신부 IITP 주관</td>
+  </tr>
+</table>
 
 ## 2024
 <table>
